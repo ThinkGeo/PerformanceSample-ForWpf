@@ -1,0 +1,2 @@
+# PerformanceSample-ForWpf
+This is a WPF desktop sample for drawing performance test of MapSuite product. When running the sample, it will render 16,000 count of rectangle shape features at first, these features will be distributed in 4 layers averagely. After clicking Start button the sample application will update 1,600 count of rectangle shape features per 1,000 milliseconds, the time cost of features drawing will display in the application footer. Customer can modify the update rate, update features count, and enable or disable the layers. 
